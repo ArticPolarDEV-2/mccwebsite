@@ -1369,17 +1369,17 @@ html [class*=section-].section-bottom-0 {
 }
 
 .bg-img-2 {
-  background: url("../images/bg-img-2.jpg") no-repeat center;
+  background: url("../../images/bg-img-2.jpg") no-repeat center;
   background-size: cover;
 }
 
 .bg-img-3 {
-  background: url("../images/events-bg-1.jpg") no-repeat center;
+  background: url("../../images/events-bg-1.jpg") no-repeat center;
   background-size: cover;
 }
 
 .bg-img-4 {
-  background: url("../images/events-bg-2.jpg") no-repeat center;
+  background: url("../../images/events-bg-2.jpg") no-repeat center;
   background-size: cover;
 }
 
